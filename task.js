@@ -1,4 +1,4 @@
 let table=4
 for(let i=1;i<=10;i++){
-    console.log(i*table)
+    console.log(i + " x "+ table +" = "+ i*table)
 }
